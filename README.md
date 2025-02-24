@@ -6,4 +6,3 @@
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love exploring how AI and algorithms can optimize real-world problems!
 <!--- Agam0795/Agam0795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
-Would you like to add a project showcase or any social links? 🚀
