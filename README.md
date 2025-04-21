@@ -1,4 +1,4 @@
-👋 Hi, I’m Agam Singh (@Agam0795)
+👋 Hi, I’m Agam Singh
 👀 I’m interested in Web Development, Data Structures & Algorithms, and Problem-Solving
 🌱 I’m currently learning React.js, Pathfinding Algorithms, and Dynamic Grid-based Systems
 💞️ I’m looking to collaborate on Web-based projects, Game Development, and Open-Source Contributions
